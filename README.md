@@ -13,6 +13,11 @@ As a Full Stack Developer, I work with various technologies to build complete en
 - **Version Control**: Git, GitHub
 - **DevOps**: Docker, Kubernetes, CI/CD pipelines
 
+### Key Full Stack projects:
+- theasiansocial.com
+- markprompt.com
+- app.replient.ai
+
 ## 🤖 AI Projects
 
 I leverage AI and Machine Learning to create intelligent solutions that can solve complex problems.
@@ -23,10 +28,11 @@ I leverage AI and Machine Learning to create intelligent solutions that can solv
 - **Deep Learning**: Neural Networks, Reinforcement Learning
 
 ### Key AI projects:
-- **AI Project 1**: [Project Name] - An AI-driven recommendation system for personalized suggestions
-- **AI Project 2**: [Project Name] - A computer vision model that detects and classifies objects in real time
-- **AI Project 3**: [Project Name] - A chatbot powered by GPT-3/4
-
+- app.replient.ai
+- markprompt.com
+- remaker.ai
+- wafi-six.vercel.com
+  
 ## 🔗 Blockchain Projects
 
 I am passionate about Blockchain development and decentralized applications (DApps). My work revolves around smart contracts, cryptocurrency, and secure transactions.
