@@ -1,5 +1,5 @@
 
-# 🚀 Full Stack Developer | AI & Blockchain Projects
+# 🚀 Full Stack | AI & Blockchain Developer
 
 Welcome to my GitHub repository! This is where I share a range of cutting-edge projects, combining Full Stack Development, Artificial Intelligence (AI), and Blockchain technology.
 
@@ -12,11 +12,6 @@ As a Full Stack Developer, I work with various technologies to build complete en
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
 - **DevOps**: Docker, Kubernetes, CI/CD pipelines
-
-Some of my featured Full Stack projects:
-- **Project 1**: [Project Name] - A web application that does X, Y, Z
-- **Project 2**: [Project Name] - An e-commerce platform for A, B, C
-- **Project 3**: [Project Name] - A social networking site for...
 
 ## 🤖 AI Projects
 
@@ -40,10 +35,6 @@ I am passionate about Blockchain development and decentralized applications (DAp
 - **Smart Contracts**: Solidity, Truffle, Hardhat
 - **Decentralized Apps (DApps)**: Web3.js, MetaMask integration
 
-### Blockchain Projects:
-- **Blockchain Project 1**: [Project Name] - A decentralized marketplace for buying and selling digital assets
-- **Blockchain Project 2**: [Project Name] - A voting platform secured by blockchain technology
-- **Blockchain Project 3**: [Project Name] - A token-based rewards system using ERC-20 tokens
 
 ## 🛠 Tools & Technologies
 
