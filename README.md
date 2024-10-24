@@ -1,16 +1,17 @@
 
-# 🚀 Full Stack | AI & Blockchain Developer
+# 🚀 Full Stack | Mobile Engineer
 
-Welcome to my GitHub repository! This is where I share a range of cutting-edge projects, combining Full Stack Development, Artificial Intelligence (AI), and Blockchain technology.
+Welcome to my GitHub repository! This is where I share a range of cutting-edge projects, combining Full Stack Development, Artificial Intelligence (AI), and Mobile technology.
 
 ## 🌐 Full Stack Projects
 
 As a Full Stack Developer, I work with various technologies to build complete end-to-end applications. My tech stack includes:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Express.js, Python (Django, Flask), Ruby on Rails
+- **Frontend**: Android, iOS, Java, kotlin, Swift, React Native, Flutter, Ionic, HTML, CSS, JavaScript, React, Vue.js
+- **Backend**: Java Spring, Asp.net, Node.js, Express.js, Python (Django, Flask), Ruby on Rails
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, Gitlab
+- **Cloud platform: Aws, Microsoft Azure
 - **DevOps**: Docker, Kubernetes, CI/CD pipelines
 
 ### Key Full Stack projects:
