@@ -1,5 +1,5 @@
 
-# 🚀 Full Stack | Mobile Engineer
+# 🚀 Full Stack | Blockchain Developer
 
 Welcome to my GitHub repository! This is where I share a range of cutting-edge projects, combining Full Stack Development, Artificial Intelligence (AI), and Mobile technology.
 
