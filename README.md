@@ -8,8 +8,8 @@ Welcome to my GitHub repository! This is where I share a range of cutting-edge p
 As a Full Stack Developer, I work with various technologies to build complete end-to-end applications. My tech stack includes:
 
 - **Frontend**: Android, iOS, Java, kotlin, Swift, React Native, Flutter, Ionic, HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Java Spring, Asp.net, Node.js, Express.js, Python (Django, Flask), Ruby on Rails
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Backend**: PHP, Java Spring, Asp.net, Node.js, Express.js, Python (Django, Flask), Ruby on Rails
+- **Databases**: MongoDB, PostgreSQL, MySQL, SQL
 - **Version Control**: Git, GitHub, Gitlab
 - **Cloud platform: Aws, Microsoft Azure
 - **DevOps**: Docker, Kubernetes, CI/CD pipelines
