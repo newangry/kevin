@@ -62,8 +62,5 @@ Here are some of the tools and technologies I frequently use across these projec
 
 I am a Full Stack Developer passionate about building scalable applications with cutting-edge technology, including AI and Blockchain. I am always open to collaborating on exciting projects and contributing to the open-source community.
 
-## 🤝 Get In Touch
-
-Feel free to check out my work, raise issues, or contribute to the projects. You can reach me at:
 
 
