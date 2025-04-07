@@ -66,4 +66,4 @@ I am a Full Stack Developer passionate about building scalable applications with
 
 Feel free to check out my work, raise issues, or contribute to the projects. You can reach me at:
 
-- **Email**: posture0609@gmail.com
+
